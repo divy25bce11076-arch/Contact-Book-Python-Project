@@ -29,7 +29,7 @@ Contacts are stored in-memory in a Python dictionary during each program run.
 ### Installation
 
 Clone the repository and navigate to the folder:
-git clone git clone https://github.com/your-username/contact-book.git
+git clone https://github.com/your-username/contact-book.git
 cd contact-book
 
 
